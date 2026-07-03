@@ -159,6 +159,7 @@ Acesse `http://localhost:3000`.
 -  Animações suaves com Framer Motion
 -  Progresso visual para frete grátis
 -  Responsividade mobile-first
+-  Envio do pedido para o WhatsApp
 
 ---
 
