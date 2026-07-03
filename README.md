@@ -1,4 +1,4 @@
-# 🍔 Sabor Delivery — Cardápio Online
+# 🍔 — Cardápio Online
 
 Aplicação web completa de cardápio digital com pedido online, desenvolvida com **Next.js 15 (App Router)**, **TypeScript** e **Tailwind CSS**.
 
