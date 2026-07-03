@@ -172,4 +172,3 @@ Acesse `http://localhost:3000`.
 - **Painel admin**: gerenciar cardápio, preços e pedidos recebidos
 - **PWA**: suporte offline com service workers
 - **Temas**: modo escuro
-- **Avaliações**: rating de produtos pelos clientes
